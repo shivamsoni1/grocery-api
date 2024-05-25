@@ -4,7 +4,8 @@
 - **start command:** : docker compose up
 - Above Command will start the app server and postgresql server
 - Refer .env after running above command to get port for postgresql connection and api testing on local .
-
+## Database schema design link
+- https://dbdiagram.io/d/grocery-api-design-6649ca11f84ecd1d228f1c32
 ## Endpoints
 
 ### Inventory Endpoints
