@@ -1,5 +1,9 @@
 ### Grocery API Documentation
 
+## Docker Compose
+-**start-command:** : docker compose up
+- Above Command will start the app server and postgresql server 
+
 ## Endpoints
 
 ### Inventory Endpoints
