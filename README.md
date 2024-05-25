@@ -1,7 +1,4 @@
-# Grocery API Documentation
-
-## Base URL
-The base URL for all endpoints is: `http://yourapiurl.com/api`
+### Grocery API Documentation
 
 ## Endpoints
 
