@@ -2,7 +2,8 @@
 
 ## Docker Compose
 -**start-command:** : docker compose up
-- Above Command will start the app server and postgresql server 
+- Above Command will start the app server and postgresql server
+- Refer .env after running above command to get port for postgresql connection and api testing on local .
 
 ## Endpoints
 
